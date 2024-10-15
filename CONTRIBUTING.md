@@ -1,6 +1,6 @@
 # Contribution Guide
 
-We would love for you to contribute to the vascpy project and help make it better than it is today.
+We would love for you to contribute to the morphology-synthesis project and help make it better than it is today.
 As a contributor, here are the guidelines we would like you to follow:
 
 - [Contribution Guide](#contribution-guide)
@@ -112,7 +112,7 @@ the main (upstream) repository:
     git pull --ff upstream master
     ```
 
-[github]: https://github.com/BlueBrain/vascpy
+[github]: https://github.com/BlueBrain/morphology-synthesis
 
 # Development Environment
 
