@@ -7,7 +7,8 @@ build-backend = "setuptools.build_meta"
 name = "morphology-synthesis"
 version = "2023.09.22"
 description = "morphology-synthesis web API"
-readme = "README.rst"
+authors = [{name = "Blue Brain Project, EPFL"}]
+readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "fastapi",
